@@ -1,2 +1,0 @@
-# AquiVamos.Org
-Portal turistico
