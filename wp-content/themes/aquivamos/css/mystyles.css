@@ -1,0 +1,74 @@
+/*YOUR CUSTOM STYLES*/
+
+
+/*
+Estilos para el formulario de Contact Form 7
+*/
+
+.formulario-cliente input[type='text'] {
+background: red;
+}
+/*
+estilos por daniel inicio
+ */
+
+.comment-meta {
+  display: table;
+  margin-left:70px;
+}
+.comment-body p {
+  border-bottom: 1px dashed #000;
+  margin-left:70px;
+  padding-bottom:10px;
+}
+.reply {
+  margin-left:70px;
+}
+.form-allowed-tags {
+  display: none;
+}
+.avatar {
+  width: 60px;
+  height: 60px;
+}
+.comment-form-author input,
+.comment-form-email input,
+.comment-form-url input,
+.comment-form-comment textarea {
+  border:1px solid #ccc;
+  padding: 0.5em;
+  display: inline-block;
+}
+.comment-form-author input:focus,
+.comment-form-email input:focus,
+.comment-form-url input:focus,
+.comment-form-comment textarea:focus {
+    background: #CFFF68;
+    border: 1px solid #CFFF68;
+    box-shadow: 1px 2px 1px rgba(0,0,0,0.2);
+    color: white;
+    -webkit-transition: 1.0s;
+    -moz-transition: 1.0s;
+    -ms-transition: 1.0s;
+    -o-transition: 1.0s;
+    transition: 1.0s;
+}
+.form-submit input {
+  background: #CFFF68;
+  padding: 10px 15px;
+  border: 0;
+  color: white;
+  font-weight: bold;
+}
+.form-submit input:hover {
+  box-shadow: 1px 2px 1px rgba(0,0,0,0.2);
+    -webkit-transition: 1.0s;
+    -moz-transition: 1.0s;
+    -ms-transition: 1.0s;
+    -o-transition: 1.0s;
+    transition: 1.0s;
+      border-radius: 5px;
+}
+/*
+estilos por daniel fin
+ */

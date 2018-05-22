@@ -1,0 +1,110 @@
+body {
+	font-size: 16px;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.Header {
+	background: #000;
+	color: white;
+}
+
+.Header-top {
+	padding: 0.5em;	
+}
+
+.Header-topList {
+	
+}
+
+.Header-topSearch {
+	border: 4px;	
+}
+
+.Header-topSearch [type="submit"] {
+	height: 2em;	
+	background: white;
+	border-radius: 0 3px 3px 0;
+	border-top: 1px solid red;
+	border-bottom: 1px solid red;
+	border-right: 1px solid red;
+	border-left: 0;
+}
+
+.Header-topSearch [type="submit"]:hover {
+	background: white;
+}
+.Header-topSearch [type="text"],
+.Header-topSearch [type="submit"] {
+	background: white;
+	float:left;		
+	padding: 0;
+}
+
+.Header-topSearch [type="text"] {
+	border-bottom: 1px solid red;
+	border-left: 1px solid red;
+	border-radius: 3px 0 0 3px;
+	border-right: 0;
+	border-top: 1px solid red;
+	height: 2.3em;
+	margin: 0;
+	padding: 0 0 0 0.5em;
+	width: 10em; 
+}
+
+.Header-topTitle {
+	font-size: 1.8em;
+	color:white;
+	display: inline-block;
+}
+
+.MainMenu {
+	background: yellow;
+	color: black;
+}
+
+.Slider {
+	background: orange;
+	color: white;
+}
+
+.Content {
+	background: green;
+	color: white;
+}
+
+.Search {
+	background: blue;
+	color: white;
+}
+
+.Produce {
+	background: peru;
+	color: white;
+}
+
+.Destinations {
+	background: olive;
+	color: white;
+}
+.Footer {
+	background: pink;
+	color: white;
+}
+/*
+****************************************/
+.ImageRegister {
+	background-image: url("http://aquivamos.org/wp-content/uploads/2015/06/viaje-register.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 3.5em;
+	min-height: 38em;
+	position: fixed;
+	text-align: center;
+	z-index: -1;
+}

@@ -1,0 +1,1 @@
+.Container{text-align:center;padding:1rem;}.Container-img{margin-top:1rem;margin-bottom:1rem;width:200px}.Container-title{font-size:1.2rem;line-height:1.7rem}@media only screen and (min-width:768px){.Container{width:100%;}.Container-content{display:flex;justify-content:space-between;align-items:center}}@media only screen and (min-width:950px){.Container{flex:1}}

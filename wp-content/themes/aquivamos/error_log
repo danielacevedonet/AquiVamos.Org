@@ -1,0 +1,49 @@
+[06-Apr-2015 07:59:55 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/empowr02/public_html/aquivamos.org/wp-content/themes/aquivamos/index.php on line 1
+[22-Apr-2015 03:56:18 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/empowr02/public_html/aquivamos.org/wp-content/themes/aquivamos/index.php on line 1
+[11-Oct-2015 14:45:03 America/Chicago] PHP Fatal error:  Call to undefined function bloginfo() in /home3/empowr02/public_html/aquivamos.org/wp-content/themes/aquivamos/404.php on line 5
+[05-Jul-2016 22:06:07 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/erikaspn/public_html/wp-content/themes/aquivamos/404.php on line 5
+[08-Jul-2016 14:39:40 UTC] PHP Warning:  Unterminated comment starting line 302 in /home/erikaspn/public_html/wp-content/themes/aquivamos/functions.php on line 302
+[08-Jul-2016 14:39:40 UTC] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/erikaspn/public_html/wp-content/themes/aquivamos/functions.php on line 4
+[26-Jul-2016 08:19:10 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/erikaspn/public_html/wp-content/themes/aquivamos/404.php on line 5
+[26-Jul-2016 08:19:15 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/erikaspn/public_html/wp-content/themes/aquivamos/404.php on line 5
+[28-Jul-2016 14:14:28 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/erikaspn/public_html/wp-content/themes/aquivamos/404.php on line 5
+[01-Aug-2016 23:17:08 UTC] PHP Warning:  require(TEMPLATEPATH/traking/google-analytics.php): failed to open stream: No such file or directory in /home/erikaspn/public_html/wp-content/themes/aquivamos/prueba.php on line 1
+[01-Aug-2016 23:17:08 UTC] PHP Warning:  require(TEMPLATEPATH/traking/google-analytics.php): failed to open stream: No such file or directory in /home/erikaspn/public_html/wp-content/themes/aquivamos/prueba.php on line 1
+[01-Aug-2016 23:17:08 UTC] PHP Fatal error:  require(): Failed opening required 'TEMPLATEPATH/traking/google-analytics.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/erikaspn/public_html/wp-content/themes/aquivamos/prueba.php on line 1
+[03-Aug-2016 04:47:26 UTC] PHP Warning:  Unterminated comment starting line 302 in /home/erikaspn/public_html/wp-content/themes/aquivamos/functions.php on line 302
+[03-Aug-2016 04:47:26 UTC] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/erikaspn/public_html/wp-content/themes/aquivamos/functions.php on line 4
+[03-Aug-2016 06:42:25 UTC] PHP Warning:  Unterminated comment starting line 302 in /home/erikaspn/public_html/wp-content/themes/aquivamos/functions.php on line 302
+[03-Aug-2016 06:42:25 UTC] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/erikaspn/public_html/wp-content/themes/aquivamos/functions.php on line 4
+[03-Aug-2016 19:29:40 UTC] PHP Warning:  Unterminated comment starting line 302 in /home/erikaspn/public_html/wp-content/themes/aquivamos/functions.php on line 302
+[03-Aug-2016 19:29:40 UTC] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/erikaspn/public_html/wp-content/themes/aquivamos/functions.php on line 4
+[05-Aug-2016 22:26:39 UTC] PHP Warning:  Unterminated comment starting line 302 in /home/erikaspn/public_html/wp-content/themes/aquivamos/functions.php on line 302
+[05-Aug-2016 22:26:39 UTC] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/erikaspn/public_html/wp-content/themes/aquivamos/functions.php on line 4
+[05-Aug-2016 22:58:23 UTC] PHP Warning:  Unterminated comment starting line 302 in /home/erikaspn/public_html/wp-content/themes/aquivamos/functions.php on line 302
+[05-Aug-2016 22:58:23 UTC] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/erikaspn/public_html/wp-content/themes/aquivamos/functions.php on line 4
+[07-Aug-2016 10:48:47 America/Chicago] PHP Warning:  require(TEMPLATEPATH/traking/top.php): failed to open stream: No such file or directory in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[07-Aug-2016 10:48:47 America/Chicago] PHP Warning:  require(TEMPLATEPATH/traking/top.php): failed to open stream: No such file or directory in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[07-Aug-2016 10:48:47 America/Chicago] PHP Fatal error:  require(): Failed opening required 'TEMPLATEPATH/traking/top.php' (include_path='.:/opt/php56/lib/php') in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[07-Aug-2016 10:48:48 America/Chicago] PHP Fatal error:  Call to undefined function esc_url() in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/footer.php on line 6
+[07-Aug-2016 14:08:15 America/Chicago] PHP Warning:  require(TEMPLATEPATH/traking/top.php): failed to open stream: No such file or directory in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[07-Aug-2016 14:08:15 America/Chicago] PHP Warning:  require(TEMPLATEPATH/traking/top.php): failed to open stream: No such file or directory in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[07-Aug-2016 14:08:15 America/Chicago] PHP Fatal error:  require(): Failed opening required 'TEMPLATEPATH/traking/top.php' (include_path='.:/opt/php56/lib/php') in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[07-Aug-2016 14:08:16 America/Chicago] PHP Fatal error:  Call to undefined function esc_url() in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/footer.php on line 6
+[09-Aug-2016 20:28:03 America/Chicago] PHP Warning:  Unterminated comment starting line 302 in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/functions.php on line 302
+[09-Aug-2016 20:28:03 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/functions.php on line 4
+[10-Aug-2016 15:14:01 America/Chicago] PHP Warning:  Unterminated comment starting line 302 in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/functions.php on line 302
+[10-Aug-2016 15:14:01 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/functions.php on line 4
+[17-Mar-2017 23:11:21 America/Chicago] PHP Fatal error:  Call to undefined function bloginfo() in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/404.php on line 5
+[23-Mar-2017 14:45:10 America/Chicago] PHP Fatal error:  Call to undefined function bloginfo() in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/404.php on line 5
+[13-Feb-2018 11:59:45 America/Chicago] PHP Warning:  require(TEMPLATEPATH/traking/top.php): failed to open stream: No such file or directory in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[13-Feb-2018 11:59:45 America/Chicago] PHP Warning:  require(TEMPLATEPATH/traking/top.php): failed to open stream: No such file or directory in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[13-Feb-2018 11:59:45 America/Chicago] PHP Fatal error:  require(): Failed opening required 'TEMPLATEPATH/traking/top.php' (include_path='.:/opt/php56/lib/php') in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[13-Feb-2018 11:59:47 America/Chicago] PHP Warning:  require(TEMPLATEPATH/traking/top.php): failed to open stream: No such file or directory in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[13-Feb-2018 11:59:47 America/Chicago] PHP Warning:  require(TEMPLATEPATH/traking/top.php): failed to open stream: No such file or directory in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[13-Feb-2018 11:59:47 America/Chicago] PHP Fatal error:  require(): Failed opening required 'TEMPLATEPATH/traking/top.php' (include_path='.:/opt/php56/lib/php') in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[13-Feb-2018 11:59:55 America/Chicago] PHP Warning:  require(TEMPLATEPATH/traking/top.php): failed to open stream: No such file or directory in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[13-Feb-2018 11:59:55 America/Chicago] PHP Warning:  require(TEMPLATEPATH/traking/top.php): failed to open stream: No such file or directory in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[13-Feb-2018 11:59:55 America/Chicago] PHP Fatal error:  require(): Failed opening required 'TEMPLATEPATH/traking/top.php' (include_path='.:/opt/php56/lib/php') in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[13-Feb-2018 11:59:55 America/Chicago] PHP Warning:  require(TEMPLATEPATH/traking/top.php): failed to open stream: No such file or directory in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[13-Feb-2018 11:59:55 America/Chicago] PHP Warning:  require(TEMPLATEPATH/traking/top.php): failed to open stream: No such file or directory in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[13-Feb-2018 11:59:55 America/Chicago] PHP Fatal error:  require(): Failed opening required 'TEMPLATEPATH/traking/top.php' (include_path='.:/opt/php56/lib/php') in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
+[06-May-2018 18:45:34 America/Chicago] PHP Fatal error:  Call to undefined function bloginfo() in /home1/aquivamosorg/public_html/wp-content/themes/aquivamos/404.php on line 5

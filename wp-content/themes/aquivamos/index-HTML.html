@@ -1,0 +1,27 @@
+<?php /* Theme: AquiVamos.org Template name: Inicio Ahutor: Daniel Acevedo */ ?><!DOCTYPE html>
+<html lang="es">
+  <head><?php include('prueba.php'); ?>
+    <style><?php include('css/index.php'); ?></style>
+  </head>
+  <body>
+    <div class="Content-index">
+      <div class="Content-menu">
+        <nav class="Menu"><a rel="nofollow" href="http://aquivamos.org/wp-login.php" class="Menu-linkAcceder">Acceder</a><a rel="nofollow" href="http://aquivamos.org/wp-login.php?action=register" title="Es gratis por poco tiempo" class="Menu-linkCrear">Crear una cuenta</a></nav>
+      </div>
+      <div class="Content-search">
+        <div class="Search">
+          <h1 class="Search-title">AquiVamos.org</h1>
+          <form name="search" method="get" action="http://aquivamos.org/" class="Search-form">
+            <input type="text" name="s" id="search" placeholder="Hoteles, Restaurantes, Destinos, " class="Search-inputText">
+            <input type="submit" onClick="ga('send', 'event', 'Boton', 'Busqueda', 'index');" value="Buscar" class="Search-inputSubmit">
+          </form>
+        </div>
+      </div>
+      <div class="Content-footer">
+        <footer class="Footer"> 
+          <p class="Footer-parrafo">Todos los derechos reservados<a rel="me" href="https://www.facebook.com/DanielAcevedoj" target="_blank" title="Visita mi perfil" class="Footer-link">Daniel Acevedo</a></p>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>

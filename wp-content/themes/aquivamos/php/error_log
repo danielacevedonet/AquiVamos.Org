@@ -1,0 +1,5 @@
+[11-Apr-2015 20:26:24 America/Chicago] PHP Fatal error:  Call to undefined function hotel_campo() in /home3/empowr02/public_html/aquivamos.org/wp-content/themes/aquivamos/php/contact-form.php on line 16
+[11-Apr-2015 20:26:28 America/Chicago] PHP Fatal error:  Call to undefined function hotel_campo() in /home3/empowr02/public_html/aquivamos.org/wp-content/themes/aquivamos/php/contact-form.php on line 16
+[11-Apr-2015 20:30:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/empowr02/public_html/aquivamos.org/wp-content/themes/aquivamos/php/contact-form.php on line 16
+[11-Apr-2015 20:30:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/empowr02/public_html/aquivamos.org/wp-content/themes/aquivamos/php/contact-form.php on line 16
+[11-Apr-2015 20:30:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/empowr02/public_html/aquivamos.org/wp-content/themes/aquivamos/php/contact-form.php on line 16

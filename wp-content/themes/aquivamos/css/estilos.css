@@ -1,0 +1,483 @@
+/*YOUR CUSTOM STYLES*/
+
+
+/*
+Estilos para el encabezado de las paginas de oferta
+*/
+.offer-iva {
+    color: white;
+}
+.offer-container-title {
+    text-align: center;
+    font-weight: 100;
+    color: #222;
+    margin-bottom: 1em;
+}
+.offer-container {
+    padding: 1.5em 0;
+}
+.offer-container-o {
+    padding: 4em 0;
+}
+.offer-ventaja {
+    padding: 0.2em 0;
+}
+.offer-ventaja-title {
+    font-weight: 300;
+    color: #000;
+    margin-bottom: 0.5em;
+}
+.offer-content-parrafo {
+    text-align: center;
+    font-size: 18px;
+    color: #000;
+}
+.offer-content-redes {
+    background-color: #12A641;
+    border-radius: 50%;
+    color: white;
+    display: block;
+    font-size: 75px;
+    height: 120px;
+    line-height: 120px;
+    margin: 0 auto;
+    text-align: center;
+    width: 120px;
+}
+.offer-countdown {
+  background-color: #12A641;
+  padding: 3em 1em;
+}
+.offer-countdown ul {
+    color: black;
+    list-style: none;
+    display: block;
+    margin: 0 auto;
+    font-size: 16px;
+}
+.offer-countdown p {
+    font-size: 16px;
+}
+.offer-countdown ul li {
+    line-height: 35px;
+}
+
+.offer-countdown-title {
+  color: white;
+  text-align: center;
+  font-weight: 300;
+}
+button.offer-center {
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
+.offer-countdown-parrafo {
+    font-size: 16px;
+    color: black;
+}
+
+.offer-header {
+    background-repeat: no-repeat;
+    padding: 50px 10px;
+    background-size: cover;
+    max-height: 500px;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.offer-left {
+    padding-top: 50px;
+}
+.offer-right h3{
+    color: white;
+}
+.offer-precio {
+    margin-top: 15px;
+}
+.offer-precio span {
+    font-size: 30px;
+    color: #12A641;
+    font-weight: bold;
+}
+.offer-btn {
+    width: 80%;
+    background: #12A641;
+    padding: 10px 30px;
+    font-size: 16px;
+    color: white;
+    border-radius: 6px;
+    height: 150px;
+}
+.offer-btn:hover {
+    background: rgba(18,166,65,0.8);
+    color: white;
+}
+.offer-header i {
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.3);
+    color: #12A641;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border-radius: 50%;
+    border: 1px solid #12A641;
+}
+.offer-header ul {
+    text-align: left;
+    list-style: none;
+}
+.offer-header ul li {
+    font-size: 20px;
+    line-height: 38px;
+    margin-bottom: 5px;
+}
+.offer-header h1 {
+    color: white;
+    font-weight: 300;
+}
+
+/*
+Estilos para el formulario de Contact Form 7
+*/
+
+/*
+*  Redes socilaes
+*/
+
+.facebook-color {
+    background: #3B5998 ;
+}
+.twitter-color {
+    background: #55ACEE ;
+}
+.youtube-color {
+    background: #AF1318 ;
+}
+.google-plus-color {
+    background: #DF4A32 ;
+}
+.instagram-color {
+    background: #3F729B ;  
+}
+
+
+
+
+
+.col-md-mio {
+  width: 23%;
+}
+
+.titulo-color {
+    background: #12A641;
+    padding: 0.2em;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+}
+
+.box-descripcion {
+  box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2);
+  background: #f9f9f9;
+  border-radius: 5px;
+  padding-top: 15px; 
+}
+
+
+
+.formulario-cliente input[type='email'],
+.formulario-cliente input[type='text'] {
+    display: block;
+    background: white;
+    color: #555;
+    border: 1px solid #CCC;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+}
+
+.formulario-cliente textarea {
+    background: white;
+    border: 1px solid #CCC;
+    color: #555;
+    display: block;
+    font-size: 14px;
+    height: 110px;
+    padding: 6px 12px;
+    width: 100%;
+}
+
+.formulario-cliente input[type='submit'] {
+    background: #12A641;
+    border: 0;
+    color: white;
+    font-weight: bold;
+    padding: 10px 15px;
+}
+
+.formulario-cliente input[type='submit']:hover {
+    box-shadow: 1px 2px 1px rgba(0,0,0,0.2);
+    -webkit-transition: 1.0s;
+    -moz-transition: 1.0s;
+    -ms-transition: 1.0s;
+    -o-transition: 1.0s;
+    transition: 1.0s;
+      border-radius: 5px;
+}
+
+.formulario-cliente input[type='email']:focus,
+.formulario-cliente input[type='text']:focus,
+.formulario-cliente textarea:focus {
+    border: 1px solid #12A641;
+}
+
+/*
+estilos por daniel inicio
+ */
+ cite.fn {
+  
+ }
+ .says {
+  
+ }
+.comment-author {
+ width: 60px;
+ text-align: center;
+}
+.comment-meta {
+  display: table;
+  margin-left:70px;
+}
+.comment-body p {
+  border-bottom: 1px dashed #ccc;
+  margin-left:70px;
+  padding-bottom:10px;
+}
+.reply {
+  margin-left:70px;
+}
+.form-allowed-tags {
+  display: none;
+}
+.avatar {
+  width: 60px;
+  height: 60px;
+}
+.avatar-50 {
+    width: 40px;
+    height: 40px;
+}
+.comment-form-author input,
+.comment-form-email input,
+.comment-form-url input,
+.comment-form-comment textarea {
+  border:1px solid #ccc;
+  padding: 0.5em;
+  display: inline-block;
+}
+.comment-form-author input:focus,
+.comment-form-email input:focus,
+.comment-form-url input:focus,
+.comment-form-comment textarea:focus {
+    background: #68FF98;
+    border: 1px solid #68FF98;
+    box-shadow: 1px 2px 1px rgba(0,0,0,0.2);
+    color: black;
+    -webkit-transition: 1.0s;
+    -moz-transition: 1.0s;
+    -ms-transition: 1.0s;
+    -o-transition: 1.0s;
+    transition: 1.0s;
+}
+.form-submit input {
+  background: #12A641;
+  padding: 10px 15px;
+  border: 0;
+  color: white;
+  font-weight: bold;
+}
+.form-submit input:hover {
+  box-shadow: 1px 2px 1px rgba(0,0,0,0.2);
+    -webkit-transition: 1.0s;
+    -moz-transition: 1.0s;
+    -ms-transition: 1.0s;
+    -o-transition: 1.0s;
+    transition: 1.0s;
+      border-radius: 5px;
+}
+/*
+estilos por daniel fin
+ */
+
+ /*
+ estilos del formulario de suscripcion
+ en el lateral
+ */
+
+ .sidebar-form {
+    background: #E9E9EA;
+    padding: 1em;
+ }
+
+ .sidebar-form-input {
+    margin-bottom: 1em;
+ }
+
+ .sidebar-form-spam img {
+    margin-right: 5px;
+    margin-top: 5px;
+    width: 10px;
+ }
+
+ /*
+ estilos para botones de compartir en redes sociales
+ */
+
+ .Redes-compartir {
+    background: #E9E9EA;
+    color:#333;
+    left: 10px;
+    position: fixed;
+    text-align: center;
+    top: 110px;
+    width: 50px;
+    z-index: 20;
+ }
+ .Redes-compartir-item {
+    margin-bottom: 1em;
+ }
+ .Redes-compartir-list {
+    padding: 10px;
+ }
+
+ /*
+****************************************/
+.ImageRegister {
+    background-image: url("http://aquivamos.org/wp-content/uploads/2015/06/viaje-register.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 35em;
+    max-height: 35.1em;
+    width: 100%;
+    display: block;
+}
+.login {
+    background: white;
+}
+.LoginDos {
+    background: white;
+    padding: 30px;
+    overflow: hidden;
+    margin-top: -200px;
+    border-radius: 6px 6px 0 0;
+    display: block;
+}
+.VerdeRegister {
+    background: #F1F1F1;
+    display: block;
+    padding: 30px 30px 10px;
+}
+.BoldForm {
+    font-weight: bold;
+    color: #000;
+}
+.tml-action-links {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+.LoginDos-title{
+    font-size: 24px;
+    font-weight: bold;
+    color: #12A641;
+}
+.LoginDos-icon {
+    color: #12A641;
+    font-size: 24px;
+    border-radius: 50%;
+    border: 1px solid #12A641;
+    padding: 3px;
+}
+.LoginDos-content {
+    border-bottom: 1px solid #F1F1F1;
+    display: block;
+    overflow: hidden;
+    padding: 10px; 
+}
+.LoginDos-contentH4 {
+    margin-left: .5em;
+}
+
+
+.mc_embed_signup_scroll {
+    padding:3rem;
+}
+.mc-field-group {
+    margin-bottom:2rem;
+}
+.mc-field-group input{
+    width: 100%;
+    border: 0px;
+    padding:1rem;
+    border-radius:3px;
+}
+.mc-field-group input:hover {
+    border-bottom:2px solid #89c403;
+    color:#000;
+    margin-bottom:-2px;
+}
+.mc-field-group input:focus {
+    border-bottom:2px solid #89c403;
+    color:#000;
+    margin-bottom:-2px;
+}
+.main-footer-landing {
+    background:#282B2E;
+    text-align:center;
+    padding: 2rem 0;
+    color:#f7f7f7;
+}
+.myButton {
+    -moz-box-shadow:inset 0px 1px 0px 0px #a4e271;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #a4e271;
+    box-shadow:inset 0px 1px 0px 0px #a4e271;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #89c403), color-stop(1, #77a809));
+    background:-moz-linear-gradient(top, #89c403 5%, #77a809 100%);
+    background:-webkit-linear-gradient(top, #89c403 5%, #77a809 100%);
+    background:-o-linear-gradient(top, #89c403 5%, #77a809 100%);
+    background:-ms-linear-gradient(top, #89c403 5%, #77a809 100%);
+    background:linear-gradient(to bottom, #89c403 5%, #77a809 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#89c403', endColorstr='#77a809',GradientType=0);
+    background-color:#89c403;
+    -moz-border-radius:6px;
+    -webkit-border-radius:6px;
+    border-radius:6px;
+    border:1px solid #74b807;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:18px;
+    font-weight:bold;
+    padding:12px 24px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #528009;
+    width: 100%;
+}
+.myButton:hover {
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #77a809), color-stop(1, #89c403));
+    background:-moz-linear-gradient(top, #77a809 5%, #89c403 100%);
+    background:-webkit-linear-gradient(top, #77a809 5%, #89c403 100%);
+    background:-o-linear-gradient(top, #77a809 5%, #89c403 100%);
+    background:-ms-linear-gradient(top, #77a809 5%, #89c403 100%);
+    background:linear-gradient(to bottom, #77a809 5%, #89c403 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#77a809', endColorstr='#89c403',GradientType=0);
+    background-color:#77a809;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
