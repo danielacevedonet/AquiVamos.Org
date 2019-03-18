@@ -1,0 +1,1 @@
+<a href="<? the_field('link_twitter'); ?>" class="waves-effect waves-light" title="Siguenos en Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
