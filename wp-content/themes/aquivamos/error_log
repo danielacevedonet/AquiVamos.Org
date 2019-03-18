@@ -47,3 +47,5 @@
 [13-Feb-2018 11:59:55 America/Chicago] PHP Warning:  require(TEMPLATEPATH/traking/top.php): failed to open stream: No such file or directory in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
 [13-Feb-2018 11:59:55 America/Chicago] PHP Fatal error:  require(): Failed opening required 'TEMPLATEPATH/traking/top.php' (include_path='.:/opt/php56/lib/php') in /home2/aquivamosorg/public_html/wp-content/themes/aquivamos/header.php on line 10
 [06-May-2018 18:45:34 America/Chicago] PHP Fatal error:  Call to undefined function bloginfo() in /home1/aquivamosorg/public_html/wp-content/themes/aquivamos/404.php on line 5
+[04-Dec-2018 08:28:42 America/Chicago] PHP Fatal error:  Call to undefined function __() in /home2/milyortega/public_html/wp-content/themes/aquivamos/archive.php on line 1
+[04-Dec-2018 08:28:46 America/Chicago] PHP Fatal error:  Call to undefined function __() in /home2/milyortega/public_html/wp-content/themes/aquivamos/search.php on line 1
